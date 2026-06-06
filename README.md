@@ -1,2 +1,3 @@
-# Shoe-Poster-By-Photoshop
-A retro-inspired Nike Dunk Low promotional poster created in Adobe Photoshop, featuring vintage aesthetics, bold typography, product-focused composition, and streetwear branding elements.
+This project showcases a creative advertising poster designed for the Nike Dunk Low sneaker collection using Adobe Photoshop. The design combines vintage textures, retro-inspired graphics, bold typography, and dynamic product presentation to highlight the shoe's timeless appeal and cultural significance. The poster emphasizes key brand values such as comfort, premium materials, basketball heritage, and lifestyle versatility. Through strategic layout design, visual hierarchy, and color harmony, the poster delivers a strong streetwear and sports-fashion aesthetic while maintaining a professional marketing approach.
+
+The design demonstrates how classic sneaker culture can be blended with modern graphic design techniques to create engaging promotional content suitable for social media campaigns, digital advertisements, and branding portfolios.
